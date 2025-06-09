@@ -1,0 +1,9 @@
+{
+  "name": "Regen",
+  "version_number": "2.8.6",
+  "website_url": "https://xmods.dev/mods/regen",
+  "description": "Adds automatic health regeneration after taking damage. Multiplayer compatible. Highly configurable.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
