@@ -4,16 +4,16 @@ A lightweight, configurable health regeneration mod for Unity-based multiplayer 
 
 ---
 
-## 🚀 Features
+## Features
 
-- ⏱️ Configurable Regen Delay
-- ❤️ Fixed per-tick healing (upgrade-independent)
-- 💀 Stops regen on death (HP 0)
-- 🧠 Smart, client-side safe
+- Configurable Regen Delay
+- Fixed per-tick healing (upgrade-independent)
+- Stops regen on death (HP 0)
+- Smart, client-side safe
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 Located in:  
 `BepInEx/config/Xmods.healthregen.cfg`
@@ -26,16 +26,13 @@ Located in:
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Install BepInEx (v5)
 2. Drop the `.dll` into:  
    `BepInEx/plugins/`
 3. Launch the game and configure as needed.
 
----
+## Credits
 
-## 🧊 Credits
-
-Created by X_MODS Team  
-Powered by BepInEx + Harmony
+Made by team **modx**
